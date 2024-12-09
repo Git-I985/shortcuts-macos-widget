@@ -10,4 +10,4 @@ Just move your mouse to the top-right corner of your desktop at any time, and yo
 
 It's an easy and quick way to access keyboard shortcuts :)
 
-![alt text](poreview.jpg "Screenshot")
+![alt text](preview.jpg "Screenshot")
