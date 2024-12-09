@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2BD1DA642D07B5100003F07E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2BD1DA632D07B50C0003F07E /* README.md */; };
 		2BDDFE972D0733B800215564 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BDDFE962D0733B700215564 /* WidgetKit.framework */; };
 		2BDDFE992D0733B800215564 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BDDFE982D0733B800215564 /* SwiftUI.framework */; };
 		2BDDFEA72D0733B900215564 /* ShortcutsWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 2BDDFE942D0733B700215564 /* ShortcutsWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -39,6 +40,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2BD1DA632D07B50C0003F07E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2BD1DA652D07B5FC0003F07E /* SCR-20241210-dclh.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SCR-20241210-dclh.jpeg"; sourceTree = "<group>"; };
 		2BDDFE7E2D0733A400215564 /* Shortcuts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shortcuts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BDDFE942D0733B700215564 /* ShortcutsWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ShortcutsWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BDDFE962D0733B700215564 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
@@ -96,6 +99,8 @@
 		2BDDFE752D0733A400215564 = {
 			isa = PBXGroup;
 			children = (
+				2BD1DA632D07B50C0003F07E /* README.md */,
+				2BD1DA652D07B5FC0003F07E /* SCR-20241210-dclh.jpeg */,
 				2BDDFEB32D0793AC00215564 /* .swift-version */,
 				2BDDFEB12D0792E800215564 /* .swiftformat */,
 				2BDDFE802D0733A400215564 /* Shortcuts */,
@@ -217,6 +222,7 @@
 			files = (
 				2BDDFEB42D0793AE00215564 /* .swift-version in Resources */,
 				2BDDFEB22D0792EB00215564 /* .swiftformat in Resources */,
+				2BD1DA642D07B5100003F07E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
