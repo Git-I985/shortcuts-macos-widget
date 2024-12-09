@@ -76,17 +76,17 @@ var shortcuts: [AppShortcuts] = [
         ),
     ]),
     AppShortcuts(id: "3", appName: "Telegram", shortcuts: [
-        Shortcut(description: "Chat profile", keys: [Keys.RIGHT]),
+        Shortcut(description: "Search messages", keys: [Keys.COMMAND, "F"]),
+        Shortcut(description: "Fast search", keys: [Keys.COMMAND, "K"]),
+        Shortcut(
+            description: "Global search",
+            keys: [Keys.COMMAND, Keys.SHIFT, "F"]
+        ),
         Shortcut(
             description: "Select message",
             keys: [Keys.COMMAND, Keys.UPDOWN]
         ),
         Shortcut(description: "Voice/Video message", keys: [Keys.COMMAND, "R"]),
-        Shortcut(description: "Search messages", keys: [Keys.COMMAND, "R"]),
-        Shortcut(description: "Fast search", keys: [Keys.COMMAND, "K"]),
-        Shortcut(
-            description: "Global search",
-            keys: [Keys.SHIFT, Keys.COMMAND, "F"]
-        ),
+        Shortcut(description: "Chat profile", keys: [Keys.RIGHT]),
     ]),
 ]
