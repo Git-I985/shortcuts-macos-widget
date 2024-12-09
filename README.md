@@ -12,5 +12,7 @@ It's an easy and quick way to access keyboard shortcuts :)
 
 It doesnt read shortcuts from other apps, shortcuts are hardcoded right in the [code](https://github.com/Git-I985/shortcuts-macos-widget/blob/main/ShortcutsWidget/SelectAppIntent.swift#L63)
 
-![image](https://github.com/user-attachments/assets/ba550538-11c0-48fb-b470-46224819c8fe)
-![image](preview.jpeg "Screenshot")
+<div>
+  <img src="https://github.com/user-attachments/assets/ba550538-11c0-48fb-b470-46224819c8fe" style="width: 40%;">
+  <img src="preview.jpeg" style="width: 40%;">
+</div>
