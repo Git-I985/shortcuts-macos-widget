@@ -41,7 +41,7 @@
 
 /* Begin PBXFileReference section */
 		2BD1DA632D07B50C0003F07E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		2BD1DA652D07B5FC0003F07E /* SCR-20241210-dclh.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "SCR-20241210-dclh.jpeg"; sourceTree = "<group>"; };
+		2BD1DA652D07B5FC0003F07E /* preview.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = preview.jpeg; sourceTree = "<group>"; };
 		2BDDFE7E2D0733A400215564 /* Shortcuts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shortcuts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BDDFE942D0733B700215564 /* ShortcutsWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ShortcutsWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BDDFE962D0733B700215564 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				2BD1DA632D07B50C0003F07E /* README.md */,
-				2BD1DA652D07B5FC0003F07E /* SCR-20241210-dclh.jpeg */,
+				2BD1DA652D07B5FC0003F07E /* preview.jpeg */,
 				2BDDFEB32D0793AC00215564 /* .swift-version */,
 				2BDDFEB12D0792E800215564 /* .swiftformat */,
 				2BDDFE802D0733A400215564 /* Shortcuts */,
